@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RedisConfiguration">
+    <option name="serverConfigurations">
+      <list>
+        <ServerConfiguration>
+          <option name="label" value="redis" />
+          <option name="password" value="3333" />
+          <option name="sercurityInfo">
+            <SercurityInfo>
+              <option name="sshUsePrivateKey" value="true" />
+            </SercurityInfo>
+          </option>
+          <option name="serverUrl" value="192.168.121.128:6379" />
+          <option name="userName" value="" />
+        </ServerConfiguration>
+      </list>
+    </option>
+  </component>
+</project>
